@@ -1,0 +1,12 @@
+old_url,new_url,status,priority,notes
+https://example-store.com/products/sliding-gate-motor-600kg,https://example-store.com/products/sliding-gate-motor-600kg,200,high,Top product page; keep the exact URL
+https://example-store.com/en/products/sliding-gate-motor-600kg,https://example-store.com/en/products/sliding-gate-motor-600kg,200,high,English version of the same product
+https://example-store.com/collections/garage-door-motors,https://example-store.com/collections/garage-door-motors,200,high,Category that ranks well
+https://example-store.com/pages/contactus,https://example-store.com/contact,301,high,Old platform page path
+https://example-store.com/en/pages/contactus,https://example-store.com/en/contact,301,high,English contact page
+https://example-store.com/pages/privacy-policy,https://example-store.com/privacy-policy,301,normal,Old platform page path
+https://example-store.com/sitemap-product-details.xml,https://example-store.com/sitemap.xml,301,normal,Old sub-sitemap folded into one sitemap
+https://example-store.com/all-reviews,https://example-store.com/contact,301,low,No reviews page on the new site yet
+https://example-store.com/products/%D8%B1%D9%8A%D9%85%D9%88%D8%AA-%D8%AB%D9%86%D8%A7%D8%A6%D9%8A,https://example-store.com/products/%D8%B1%D9%8A%D9%85%D9%88%D8%AA-%D8%AB%D9%86%D8%A7%D8%A6%D9%8A,200,high,Arabic slug kept exactly (percent-encoded)
+https://example-store.com/cdn-cgi/l/email-protection,https://example-store.com/,301,low,Broken endpoint from the old platform
+https://example-store.com/old-promo-2023,,410,low,Expired campaign; tell Google it is gone

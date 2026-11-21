@@ -1,0 +1,18 @@
+{
+  "name": "seo-migration-toolkit",
+  "version": "0.1.0",
+  "description": "Plan, export and verify 301 redirects so a site migration keeps its Google rankings.",
+  "type": "module",
+  "bin": {
+    "smt": "bin/smt.mjs"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["seo", "migration", "redirects", "301", "cloudflare", "nextjs", "shopify"],
+  "author": "Mohammad Qethama",
+  "license": "MIT"
+}
